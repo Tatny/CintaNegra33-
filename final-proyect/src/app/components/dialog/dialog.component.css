@@ -3,3 +3,13 @@
     justify-content: center;
     flex-direction: column;
 }
+
+.titulo{
+    font-family: 'DM Serif Display', serif !important;
+    font-size: 20px;
+}
+
+.example-full-width{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 25px;
+}

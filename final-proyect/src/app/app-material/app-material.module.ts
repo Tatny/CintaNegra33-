@@ -6,7 +6,9 @@ import { MatButtonModule,
   MatInputModule,
   MatDialogModule,
   MatFormFieldModule, 
-  MatSelectModule
+  MatSelectModule,
+  MatDividerModule,
+  MatListModule
 } from '@angular/material';
 
 
@@ -21,7 +23,9 @@ import { MatButtonModule,
     MatInputModule,
     MatDialogModule,
     MatFormFieldModule,
-    MatSelectModule
+    MatSelectModule,
+    MatDividerModule,
+    MatListModule
 ],
  
 
@@ -33,7 +37,9 @@ import { MatButtonModule,
     MatInputModule,
     MatDialogModule,
     MatFormFieldModule,
-    MatSelectModule
+    MatSelectModule,
+    MatDividerModule,
+    MatListModule
   ],
     
 

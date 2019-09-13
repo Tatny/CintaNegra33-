@@ -1,0 +1,51 @@
+.allr{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+
+.all-card{
+    
+    width: 15vw;
+    height: 8vh;
+    border-radius: .25rem;
+    border-left: 30px;
+}
+
+.titulo{
+    font-family: 'DM Serif Display', serif;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;}
+
+p{
+    
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 25px;
+}
+
+.example-card{
+    border: solid 1px black !important;
+
+}
+
+
+.container{
+    width:60%;
+    background-color: white;
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    margin-left: 90px;
+    margin-top: 80px;
+   
+    flex-direction: column;
+    
+
+}
+.subtitulo{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 25px;
+}

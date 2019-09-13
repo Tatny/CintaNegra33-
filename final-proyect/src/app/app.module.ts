@@ -11,6 +11,7 @@ import { FiltrosComponent } from './components/filtros/filtros.component';
 import { RegistrarseComponent } from './pages/registrarse/registrarse.component';
 import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './pages/home/home.component';
+import { PerfilComponent } from './pages/perfil/perfil.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HomeComponent } from './pages/home/home.component';
     DialogComponent,
     FiltrosComponent,
     RegistrarseComponent,
-    HomeComponent
+    HomeComponent,
+    PerfilComponent
     
   ],
   imports: [
