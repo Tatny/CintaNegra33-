@@ -1,0 +1,28 @@
+<link href="https://fonts.googleapis.com/css?family=DM+Serif+Display|Darker+Grotesque&display=swap" rel="stylesheet">
+
+
+<div class="filtros">
+        <button class="titulo" mat-button [matMenuTriggerFor]="menu">Hombre/Mujer</button>
+        <mat-menu #menu="matMenu">
+          <button class="subtitulo" mat-menu-item>Hombre</button>
+          <button class="subtitulo" mat-menu-item>Mujer</button>
+        </mat-menu>
+
+        <button class="titulo" mat-button [matMenuTriggerFor]="menu2">Estilos</button>
+        <mat-menu #menu2="matMenu">
+          <button class="subtitulo" mat-menu-item>Casual</button>
+          <button class="subtitulo" mat-menu-item>Elegante</button>
+          <button class="subtitulo" mat-menu-item>Europeo</button>
+        </mat-menu>
+
+        <button class="titulo" mat-button [matMenuTriggerFor]="menu3">Precios</button>
+        <mat-menu #menu3="matMenu">
+          <button class="subtitulo" mat-menu-item>-1500</button>
+          <button class="subtitulo" mat-menu-item>1500+</button>
+        </mat-menu>
+
+
+</div>
+
+
+

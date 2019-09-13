@@ -1,0 +1,18 @@
+.filtros{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 15vw;
+    height: 90vh;
+    font-family: 'DM Serif Display', serif;
+}
+
+.titulo{
+    font-family: 'DM Serif Display', serif !important;
+    font-size: 16px;
+}
+
+.subtitulo{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 16px;
+}

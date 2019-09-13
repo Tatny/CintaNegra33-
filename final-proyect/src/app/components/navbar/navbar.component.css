@@ -1,0 +1,22 @@
+.navbar{
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    font-family: 'DM Serif Display', serif;
+    
+}
+
+.botones-menu{
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    margin-left: 680px;
+    font-family: 'DM Serif Display', serif !important;
+}
+
+.btn{
+    font-family: 'DM Serif Display', serif !important;
+    font-size: 16px;
+
+}
