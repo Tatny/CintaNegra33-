@@ -13,6 +13,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './pages/home/home.component';
 import { PerfilComponent } from './pages/perfil/perfil.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,

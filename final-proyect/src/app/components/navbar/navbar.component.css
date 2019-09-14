@@ -4,19 +4,29 @@
     display: flex;
     flex-direction: row;
     font-family: 'DM Serif Display', serif;
-    
+    height: 65px;
 }
 
 .botones-menu{
     display: flex;
     align-content: flex-start;
     align-items: center;
-    margin-left: 620px;
+    margin-left: 600px;
     font-family: 'DM Serif Display', serif !important;
 }
 
 .btn{
     font-family: 'DM Serif Display', serif !important;
     font-size: 16px;
+}
 
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loguito{
+    width: 23%;
+    
 }
